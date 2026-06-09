@@ -1,5 +1,9 @@
-scikit-learn
 pandas
-seaborn
+scikit-learn
 matplotlib
+seaborn
 imbalanced-learn
+mlflow
+fastapi
+uvicorn
+shap
